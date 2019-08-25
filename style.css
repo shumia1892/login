@@ -1,0 +1,23 @@
+body{
+	background-image: url("image3.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.login-box{
+	max-width: 600px;
+	float: none;
+	margin: 120px auto;
+
+}
+
+h1{
+	color:#fff !important;
+	text-transform: uppercase;
+	margin-top: 200px !important;
+}
+.message{
+	text-align: center;
+}
+
+
